@@ -10,6 +10,11 @@ When I'm not coding, you can find me reading about the latest advancements in AI
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eceisik&layout=compact&theme=radical)
 
+## Scholar Profile
+As an active contributor to academic research, I have published a number of articles in various fields. You can find my research work on my Google Scholar profile:  
+
+[![Google Scholar](https://img.shields.io/badge/Google-Scholar-333?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=1KIfgagAAAAJ&hl=tr)
+
 
 ## ✍️ Latest Blog Posts
 
